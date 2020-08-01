@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: subtitle
 ---
 
-My name is Gourav Prateek Sharma. I have the following qualities:
+My name is Gourav Prateek Sharma.
 
-- I rock a great beard
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just google.
+History
